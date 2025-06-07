@@ -75,9 +75,12 @@ src/
    5. Unit and integration tests for reliability.
 
 ### Author
-Peeyush Sharma
-HBTU Kanpur
+Peeyush Sharma,
+
+HBTU Kanpur,
+
 Email: peeyush2003sharma@gmail.com
+
 
 
 Thank you for checking out this resilient email sending service!
